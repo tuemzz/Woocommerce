@@ -1,0 +1,974 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-30 04:22+0000\n"
+"PO-Revision-Date: 2019-09-30 04:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:40 comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/nux/class-storefront-nux-starter-content.php:801
+msgid "Sunglasses"
+msgstr "Kính râm"
+
+#: inc/nux/class-storefront-nux-starter-content.php:822
+msgid "Hoodie with Logo"
+msgstr "Áo với Logo"
+
+#: inc/nux/class-storefront-nux-starter-content.php:843
+msgid "Hoodie with Pocket"
+msgstr "Áo cùng với Túi"
+
+#: inc/nux/class-storefront-nux-starter-content.php:865
+msgid "Hoodie with Zipper"
+msgstr "Áo với Dây"
+
+#: inc/nux/class-storefront-nux-starter-content.php:886
+msgid "Hoodie"
+msgstr "Áo"
+
+#: inc/nux/class-storefront-nux-starter-content.php:908
+msgid "Long Sleeve Tee"
+msgstr "Tay Áo Dài Tee"
+
+#: inc/nux/class-storefront-nux-starter-content.php:929
+msgid "Polo"
+msgstr "Polo"
+
+#: inc/nux/class-storefront-nux-starter-content.php:950
+msgid "Tshirt"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Áo thun"
+msgstr[1] ""
+
+#: inc/nux/class-storefront-nux-starter-content.php:971
+msgid "Vneck Tshirt"
+msgstr "Mùa Thu Áo Thun"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1040
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:259
+msgid "Shop by Category"
+msgstr "Bởi"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1048
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:311
+msgid "New In"
+msgstr "Mới Trong"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1058
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:417
+msgid "Fan Favorites"
+msgstr "Fan Hâm Mộ Yêu Thích"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1066
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:470
+msgid "On Sale"
+msgstr "Bán"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1074
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:523
+msgid "Best Sellers"
+msgstr "Người Bán Hàng Tốt Nhất"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1105
+msgid ""
+"This is your homepage which is what most visitors will see when they first "
+"visit your shop."
+msgstr ""
+"Đây là trang web đó là những gì hầu hết khách sẽ thấy khi họ chuyến thăm đầu "
+"tiên của cửa hàng."
+
+#: inc/nux/class-storefront-nux-starter-content.php:1109
+msgid ""
+"You can change this text by editing the \"Welcome\" page via the \"Pages\" "
+"menu in your dashboard."
+msgstr ""
+"Bạn có thể thay đổi điều này văn bản chỉnh sửa \"chào Đón\" trang qua "
+"\"Trang\" đơn trong bảng điều khiển."
+
+#: inc/nux/class-storefront-nux-starter-content.php:1135
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:364
+msgid "We Recommend"
+msgstr "Chúng Tôi Đề Nghị"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:59
+msgid "Product Page"
+msgstr "Sản Phẩm Trang"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:82
+msgid "Sticky Add-To-Cart"
+msgstr "Dính Thêm Vào Giỏ Hàng"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:83
+msgid ""
+"A small content bar at the top of the browser window which includes relevant "
+"product information and an add-to-cart button. It slides into view once the "
+"standard add-to-cart button has scrolled out of view."
+msgstr ""
+"Một nội dung của các duyệt cửa sổ trong đó bao gồm có liên quan thông tin "
+"sản phẩm và một thêm vào giỏ hàng nút. Nó chiếu vào xem khi các tiêu chuẩn "
+"thêm vào giỏ hàng nút có cuộn ra xem."
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:92
+msgid "Product Pagination"
+msgstr "Sản Phẩm Phân Trang"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:93
+msgid ""
+"Displays next and previous links on product pages. A product thumbnail is "
+"displayed with the title revealed on hover."
+msgstr ""
+"Hiển thị các đường dẫn về trang sản phẩm. Một sản phẩm thu nhỏ được hiển thị "
+"với các tiêu đề tiết lộ trên chuột."
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:75
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:682
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng của bạn"
+
+#. translators: %d: number of items in cart
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:77
+#, php-format
+msgid "%d item"
+msgstr "%d mục"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:330
+msgid "Recent Products"
+msgstr "Sản Phẩm Gần Đây"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:384
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:580
+msgid "Featured Products"
+msgstr "Sản Phẩm Đặc Trưng"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:490
+msgid "On Sale Products"
+msgstr "Bán Sản Phẩm"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:542
+msgid "Best Selling Products"
+msgstr "Sản Phẩm Bán Chạy Nhất"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:590
+msgid "On Sale Now"
+msgstr "Bán Ngay Bây Giờ"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:600
+msgid "New In Store"
+msgstr "Mới Trong Cửa Hàng"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:696
+msgid "My Account"
+msgstr "Tài Khoản Của Tôi"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:724
+msgid "More products"
+msgstr "Sản phẩm hơn"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:787
+msgid "You're viewing:"
+msgstr "You're xem:"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:822
+msgid "Shop by Brand"
+msgstr "Cửa hàng của thương Hiệu"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:837
+msgid "Product Brands"
+msgstr "Sản Phẩm Thương Hiệu"
+
+#. Theme Name of the plugin/theme
+msgid "Storefront"
+msgstr "Cửa hàng"
+
+#. Description of the theme
+msgid ""
+"Storefront is the perfect theme for your next WooCommerce project. Designed "
+"and developed by WooCommerce Core developers, it features a bespoke "
+"integration with WooCommerce itself plus many of the most popular customer "
+"facing WooCommerce extensions. There are several layout &amp; color options "
+"to personalise your shop, multiple widget regions, a responsive design and "
+"much more. Developers will love its lean and extensible codebase making it a "
+"joy to customize and extend. Looking for a WooCommerce theme? Look no "
+"further!"
+msgstr ""
+"Cửa hàng là chủ đề hoàn hảo cho tới WooCommerce dự án. Được thiết kế và phát "
+"triển bởi WooCommerce phát triển cốt Lõi, nó có một biệt hội chủ bản thân "
+"với nhiều người trong các video phổ biến nhất khách hàng phải đối mặt với "
+"WooCommerce mở rộng. Có một số cách bố trí "
+
+#. Theme URI of the plugin/theme
+msgid "https://woocommerce.com/storefront/"
+msgstr "https://woocommerce.com/storefront/"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Xem"
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Trang đó có thể"
+
+#: 404.php:22
+msgid ""
+"Nothing was found at this location. Try searching, or check out the links "
+"below."
+msgstr ""
+"Không tìm thấy gì ở vị trí này. Cố gắng tìm kiếm, hoặc kiểm tra đường dẫn "
+"sau."
+
+#: 404.php:25 inc/woocommerce/storefront-woocommerce-template-functions.php:669
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: 404.php:39
+msgid "Promoted Products"
+msgstr "Thăng Sản Phẩm"
+
+#: 404.php:45 404.php:47
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:278
+msgid "Product Categories"
+msgstr "Sản Phẩm Loại"
+
+#: 404.php:59 404.php:61
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:436
+msgid "Popular Products"
+msgstr "Sản Phẩm Phổ Biến"
+
+#: comments.php:21
+msgid "Post Comments"
+msgstr "Bài Bình Luận"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr "%1$các suy nghĩ về "
+
+#: comments.php:38
+msgid "Comment Navigation Above"
+msgstr "Bình Luận Hướng Bên Trên"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Bình luận hướng"
+
+#: comments.php:41 comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Mới Hơn Ý Kiến "
+
+#: comments.php:58
+msgid "Comment Navigation Below"
+msgstr "Bình Luận Hướng Dưới Đây,"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Ý kiến đều đóng cửa."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Không Tìm Thấy Gì Cả"
+
+#. translators: 1: URL
+#: content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgid_plural "Categories:"
+msgstr[0] ""
+"Xin lỗi, nhưng không có gì phù hợp với bạn. Hãy cố gắng một lần nữa với một "
+"số khác nhau, từ khóa."
+msgstr[1] ""
+
+#: content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Có vẻ như chúng tôi có thể"
+
+#. translators: %s: search term
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgid_plural "Tags:"
+msgstr[0] "Kết Quả tìm kiếm: %s"
+msgstr[1] ""
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Đầy đủ rộng"
+
+#: inc/class-storefront.php:94
+#: inc/nux/class-storefront-nux-starter-content.php:162
+msgid "Primary Menu"
+msgstr "Chính Menu"
+
+#: inc/class-storefront.php:95
+#: inc/nux/class-storefront-nux-starter-content.php:182
+msgid "Secondary Menu"
+msgstr "Trung Thực Đơn"
+
+#: inc/class-storefront.php:96
+#: inc/nux/class-storefront-nux-starter-content.php:192
+msgid "Handheld Menu"
+msgstr "Cầm Tay Menu"
+
+#: inc/class-storefront.php:189
+msgid "Small"
+msgstr "Nhỏ"
+
+#: inc/class-storefront.php:194
+msgid "Normal"
+msgstr "Bình thường"
+
+#: inc/class-storefront.php:199
+msgid "Medium"
+msgstr "Vừa"
+
+#: inc/class-storefront.php:204
+msgid "Large"
+msgstr "Lớn"
+
+#: inc/class-storefront.php:209
+msgid "Huge"
+msgstr "To lớn,"
+
+#: inc/class-storefront.php:233
+msgid "Sidebar"
+msgstr "Bên"
+
+#: inc/class-storefront.php:239
+msgid "Below Header"
+msgstr "Dưới Đây, Tiêu Đề"
+
+#: inc/class-storefront.php:241
+msgid ""
+"Widgets added to this region will appear beneath the header and above the "
+"main content."
+msgstr ""
+"Vật dụng thêm vào khu vực này sẽ xuất hiện dưới đầu và ở trên các nội dung "
+"chính."
+
+#. translators: 1: column number
+#: inc/class-storefront.php:254
+#, php-format
+msgid "Footer Column %1$d"
+msgstr "Chân Cột %1$d"
+
+#. translators: 1: column number
+#: inc/class-storefront.php:257
+#, php-format
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr "Vật dụng thêm ở đây sẽ xuất hiện trong cột %1$d của chân."
+
+#. translators: 1: row number, 2: column number
+#: inc/class-storefront.php:260
+#, php-format
+msgid "Footer Row %1$d - Column %2$d"
+msgstr "Chân Hàng %1$d - Cột %2$d"
+
+#. translators: 1: column number, 2: row number
+#: inc/class-storefront.php:263
+#, php-format
+msgid "Widgets added here will appear in column %1$d of footer row %2$d."
+msgstr "Vật dụng thêm ở đây sẽ xuất hiện trong cột %1$d của chân hàng %2$d."
+
+#: inc/class-storefront.php:336
+msgid "Expand child menu"
+msgstr "Mở rộng con menu"
+
+#: inc/class-storefront.php:337
+msgid "Collapse child menu"
+msgstr "Sụp đổ con menu"
+
+#: inc/class-storefront.php:505
+msgid "Post Navigation"
+msgstr "Bài Hướng"
+
+#: inc/storefront-template-functions.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Phần mềm."
+
+#: inc/storefront-template-functions.php:74
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: inc/storefront-template-functions.php:140
+msgid "WooCommerce - The Best eCommerce Platform for WordPress"
+msgstr "WooCommerce - tốt Nhất ng nền Tảng cho WordPress"
+
+#: inc/storefront-template-functions.php:140
+msgid "Built with Storefront &amp; WooCommerce"
+msgstr "Được xây dựng với Cửa hàng "
+
+#: inc/storefront-template-functions.php:236
+msgid "Primary Navigation"
+msgstr "Định Hướng Chính"
+
+#: inc/storefront-template-functions.php:237
+msgid "Menu"
+msgstr "Đơn"
+
+#: inc/storefront-template-functions.php:268
+msgid "Secondary Navigation"
+msgstr "Hướng Trung Học"
+
+#: inc/storefront-template-functions.php:292
+msgid "Skip to navigation"
+msgstr "Bỏ qua để chuyển hướng"
+
+#: inc/storefront-template-functions.php:293
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#: inc/storefront-template-functions.php:305
+msgid "Edit this section"
+msgstr "Chỉnh sửa phần này"
+
+#: inc/storefront-template-functions.php:351
+#: inc/storefront-template-functions.php:422
+msgid "Pages:"
+msgstr "Trang:"
+
+#. translators: %s: post title
+#: inc/storefront-template-functions.php:413
+#, php-format
+msgid "Continue reading %s"
+msgstr "Tiếp tục đọc %s"
+
+#. translators: %s: post date
+#: inc/storefront-template-functions.php:463
+#, php-format
+msgid "Posted on %s"
+msgstr "Đăng trên %s"
+
+#: inc/storefront-template-functions.php:469
+msgid "by"
+msgstr "bởi"
+
+#: inc/storefront-template-functions.php:478
+msgid "Leave a comment"
+msgstr "Để lại một bình luận"
+
+#: inc/storefront-template-functions.php:478
+msgid "1 Comment"
+msgstr "1 bình Luận"
+
+#: inc/storefront-template-functions.php:478
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/storefront-template-functions.php:517
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/storefront-template-functions.php:540
+#: inc/storefront-template-functions.php:543
+msgid ", "
+msgstr ", "
+
+#: inc/storefront-template-functions.php:549
+msgid "Category:"
+msgstr "Mục:"
+
+#: inc/storefront-template-functions.php:555
+msgid "Tag:"
+msgstr "Thẻ:"
+
+#: inc/storefront-template-functions.php:573
+msgctxt "Next post"
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: inc/storefront-template-functions.php:574
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Trước đó"
+
+#: inc/storefront-template-functions.php:587
+msgid "Next post:"
+msgstr "Bài tiếp theo:"
+
+#: inc/storefront-template-functions.php:588
+msgid "Previous post:"
+msgstr "Bài trước:"
+
+#: inc/admin/class-storefront-admin.php:72
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/admin/class-storefront-admin.php:73
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: inc/admin/class-storefront-admin.php:74
+msgid "Development blog"
+msgstr "Phát triển blog"
+
+#. translators: 1: HTML, 2: HTML
+#: inc/admin/class-storefront-admin.php:91
+#, php-format
+msgid "Setup complete %1$sYour Storefront adventure begins now 🚀%2$s "
+msgstr ""
+"Thiết lập hoàn thành %1$sYour Cửa hàng phiêu lưu bắt đầu ngay bây giờ 🚀%2$s "
+
+#: inc/admin/class-storefront-admin.php:92
+msgid ""
+"One more thing... You might be interested in the following Storefront "
+"extensions and designs."
+msgstr ""
+"Một điều nữa... Anh có thể quan tâm đến sau Cửa hàng mở rộng và thiết kế."
+
+#: inc/admin/class-storefront-admin.php:94
+msgid ""
+"Hello! You might be interested in the following Storefront extensions and "
+"designs."
+msgstr "Xin chào! Bạn có thể quan tâm đến sau Cửa hàng mở rộng và thiết kế."
+
+#: inc/admin/class-storefront-admin.php:101
+msgid "Storefront Extensions Bundle"
+msgstr "Cửa Hàng Mở Rộng Bó"
+
+#: inc/admin/class-storefront-admin.php:107
+msgid ""
+"All the tools you'll need to define your style and customize Storefront."
+msgstr ""
+"Tất cả các công cụ cần phải xác định phong cách của bạn và tùy Cửa hàng."
+
+#: inc/admin/class-storefront-admin.php:111
+msgid ""
+"Make it yours without touching code with the Storefront Extensions bundle. "
+"Express yourself, optimize conversions, delight customers."
+msgstr ""
+"Làm cho nó bạn mà không chạm vào mã với các Cửa hàng mở Rộng bó. Thể hiện "
+"chính mình, tối chuyển đổi lòng khách hàng."
+
+#: inc/admin/class-storefront-admin.php:116
+msgid "Read more and purchase"
+msgstr "Tìm hiểu thêm và mua"
+
+#: inc/admin/class-storefront-admin.php:120
+msgid "Alternate designs"
+msgstr "Thay thế thiết kế"
+
+#: inc/admin/class-storefront-admin.php:124
+msgid ""
+"Quickly and easily transform your shops appearance with Storefront child "
+"themes."
+msgstr ""
+"Và nhanh chóng biến đổi của cửa hàng xuất hiện với Cửa hàng trẻ chủ đề."
+
+#: inc/admin/class-storefront-admin.php:128
+msgid ""
+"Each has been designed to serve a different industry - from fashion to food."
+msgstr ""
+"Mỗi đã được thiết kế để phục vụ cho một ngành công nghiệp khác nhau từ thời "
+"trang để thức ăn."
+
+#: inc/admin/class-storefront-admin.php:132
+msgid "Of course they are all fully compatible with each Storefront extension."
+msgstr ""
+"Tất nhiên, họ là tất cả hoàn toàn tương thích với mỗi Cửa hàng mở rộng."
+
+#: inc/admin/class-storefront-admin.php:136
+msgid "Check 'em out"
+msgstr "Kiểm tra'em ra"
+
+#. translators: %s: Automattic branding
+#: inc/admin/class-storefront-admin.php:145
+#, php-format
+msgid "An %s project"
+msgstr "Một %các dự án"
+
+#: inc/admin/class-storefront-admin.php:174
+#: inc/admin/class-storefront-plugin-install.php:62
+msgid "Activated"
+msgstr "Kích hoạt"
+
+#: inc/admin/class-storefront-admin.php:183
+#: inc/admin/class-storefront-plugin-install.php:75
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/admin/class-storefront-admin.php:198
+#: inc/admin/class-storefront-plugin-install.php:94
+msgid "Install now"
+msgstr "Bây giờ cài đặt"
+
+#: inc/admin/class-storefront-admin.php:205
+msgid "Learn more"
+msgstr "Tìm hiểu thêm"
+
+#: inc/admin/class-storefront-plugin-install.php:114
+msgid "learn more"
+msgstr "tìm hiểu thêm"
+
+#. translators: 1: Storefront, 2: start <a> tag, 3: Storefront, 4: end <a> tag
+#: inc/customizer/class-storefront-customizer-control-more.php:29
+#, php-format
+msgid ""
+"There's a range of %1$s extensions available to put additional power in your "
+"hands. Check out the %2$s%3$s%4$s page in your dashboard for more "
+"information."
+msgstr ""
+"There's a phạm vi của %1$các mở rộng sẵn để đặt thêm lực trong tay của bạn. "
+"Kiểm tra các %2$các%3$s%4$các trang trong bảng điều khiển của bạn cho biết "
+"thêm thông tin."
+
+#. translators: %s: Storefront
+#: inc/customizer/class-storefront-customizer-control-more.php:36
+#, php-format
+msgid "Enjoying %s?"
+msgstr "Thưởng thức %s?"
+
+#. translators: 1: start <a> tag, 2: end <a> tag
+#: inc/customizer/class-storefront-customizer-control-more.php:43
+#, php-format
+msgid ""
+"Why not leave us a review on %1$sWordPress.org%2$s?  We'd really appreciate "
+"it!"
+msgstr ""
+"Tại sao không để chúng tôi xem xét trên %1$sWordPress.tổ%2$s? We'd thực sự "
+"đánh giá cao nó!"
+
+#: inc/customizer/class-storefront-customizer.php:122
+msgid "Background"
+msgstr "Nền"
+
+#: inc/customizer/class-storefront-customizer.php:126
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: inc/customizer/class-storefront-customizer.php:171
+msgid "Typography"
+msgstr "Chữ"
+
+#: inc/customizer/class-storefront-customizer.php:189
+#: inc/customizer/class-storefront-customizer.php:400
+msgid "Heading color"
+msgstr "Nhóm màu"
+
+#: inc/customizer/class-storefront-customizer.php:210
+#: inc/customizer/class-storefront-customizer.php:326
+#: inc/customizer/class-storefront-customizer.php:421
+#: inc/customizer/class-storefront-customizer.php:495
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: inc/customizer/class-storefront-customizer.php:231
+msgid "Link / accent color"
+msgstr "Link / màu giọng"
+
+#: inc/customizer/class-storefront-customizer.php:252
+msgid "Hero heading color"
+msgstr "Anh hùng đề màu"
+
+#: inc/customizer/class-storefront-customizer.php:273
+msgid "Hero text color"
+msgstr "Anh hùng văn bản màu"
+
+#: inc/customizer/class-storefront-customizer.php:286
+msgid "Header background image"
+msgstr "Nền đầu hình ảnh"
+
+#: inc/customizer/class-storefront-customizer.php:305
+#: inc/customizer/class-storefront-customizer.php:379
+#: inc/customizer/class-storefront-customizer.php:474
+msgid "Background color"
+msgstr "Màu nền"
+
+#: inc/customizer/class-storefront-customizer.php:347
+#: inc/customizer/class-storefront-customizer.php:442
+msgid "Link color"
+msgstr "Link màu"
+
+#: inc/customizer/class-storefront-customizer.php:360
+msgid "Footer"
+msgstr "Chân"
+
+#: inc/customizer/class-storefront-customizer.php:362
+msgid "Customize the look & feel of your website footer."
+msgstr "Tuỳ các trông "
+
+#: inc/customizer/class-storefront-customizer.php:455
+msgid "Buttons"
+msgstr "Nút"
+
+#: inc/customizer/class-storefront-customizer.php:457
+msgid "Customize the look & feel of your website buttons."
+msgstr "Tuỳ các trông "
+
+#: inc/customizer/class-storefront-customizer.php:516
+msgid "Alternate button background color"
+msgstr "Thay thế nút màu nền"
+
+#: inc/customizer/class-storefront-customizer.php:537
+msgid "Alternate button text color"
+msgstr "Thay thế nút màu chữ"
+
+#: inc/customizer/class-storefront-customizer.php:550
+msgid "Layout"
+msgstr "Bố trí"
+
+#: inc/customizer/class-storefront-customizer.php:567
+msgid "General Layout"
+msgstr "Nói Chung Bố Trí"
+
+#: inc/customizer/class-storefront-customizer.php:583
+msgid "More"
+msgstr "Hơn"
+
+#: inc/customizer/class-storefront-customizer.php:598
+msgid "Looking for more options?"
+msgstr "Tìm cách cho thêm nhiều lựa chọn?"
+
+#: inc/nux/class-storefront-nux-admin.php:83
+msgid "Thanks for installing Storefront, you rock! 🤘"
+msgstr "Cảm ơn đã cài đặt Cửa hàng, bạn đá! 🤘"
+
+#: inc/nux/class-storefront-nux-admin.php:84
+msgid ""
+"To enable eCommerce features you need to install the WooCommerce plugin."
+msgstr "Để cho phép thương mại có bạn cần phải cài đặt WooCommerce."
+
+#: inc/nux/class-storefront-nux-admin.php:85
+msgid "WooCommerce activated"
+msgstr "WooCommerce kích hoạt"
+
+#: inc/nux/class-storefront-nux-admin.php:85
+msgid "Activate WooCommerce"
+msgstr "Kích Hoạt WooCommerce"
+
+#: inc/nux/class-storefront-nux-admin.php:85
+msgid "Install WooCommerce"
+msgstr "Cài Đặt WooCommerce"
+
+#: inc/nux/class-storefront-nux-admin.php:89
+msgid "Design your store 🎨"
+msgstr "Thiết kế cửa hàng của bạn 🎨"
+
+#: inc/nux/class-storefront-nux-admin.php:93
+msgid ""
+"Before you add your first product let's design your store. We'll add some "
+"example products for you. When you're ready let's get started by adding your "
+"logo."
+msgstr ""
+"Trước khi có thêm tài sản phẩm đầu tiên của let's thiết kế cửa hàng của bạn. "
+"We'll thêm một số ví dụ sản phẩm cho bạn. When you're ready chúng ta hãy bắt "
+"đầu bằng cách thêm logo của bạn."
+
+#: inc/nux/class-storefront-nux-admin.php:95
+msgid ""
+"You've set up WooCommerce, now it's time to give it some style! Let's get "
+"started by entering the Customizer and adding your logo."
+msgstr ""
+"Anh đã thiết lập Ng, bây giờ it's thời gian để cho nó một số phong! Chúng ta "
+"hãy bắt đầu bằng cách nhập Tùy biến và thêm logo của bạn."
+
+#: inc/nux/class-storefront-nux-admin.php:116
+msgid "Apply the Storefront homepage template"
+msgstr "Áp dụng các Cửa hàng trang mẫu"
+
+#: inc/nux/class-storefront-nux-admin.php:118
+msgid "Create a homepage using Storefront's homepage template"
+msgstr "Tạo ra một chủ Cửa hàng bằng cách sử dụng's chủ mẫu"
+
+#: inc/nux/class-storefront-nux-admin.php:126
+msgid "Add example products"
+msgstr "Thêm dụ sản phẩm"
+
+#: inc/nux/class-storefront-nux-admin.php:131
+#: inc/nux/class-storefront-nux-guided-tour.php:112
+msgid "Let's go!"
+msgstr "Let's go!"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:83
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:89
+msgid "No thanks, skip the tour"
+msgstr "Không, cám ơn, bỏ qua những tour"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:91
+msgid "Skip this step"
+msgstr "Bỏ qua bước này"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:109
+msgid "Welcome to the Customizer"
+msgstr "Chào mừng bạn đến Tùy biến"
+
+#. translators: %s: 'End Of Line' symbol
+#: inc/nux/class-storefront-nux-guided-tour.php:111
+#, php-format
+msgid ""
+"Here you can control the overall look and feel of your store.%sTo get "
+"started, let's add your logo"
+msgstr ""
+"Ở đây anh có thể kiểm soát được tổng thể của cửa hàng của bạn.%sTo bắt đầu, "
+"let's thêm logo của bạn"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:118
+msgid "Add your logo"
+msgstr "Thêm logo của bạn"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:119
+msgid ""
+"Open the Site Identity Panel, then click the 'Select Logo' button to upload "
+"your logo."
+msgstr ""
+"Mở trang Web Danh tính điều Khiển, sau đó nhấn vào công Chọn Biểu tượng\\' "
+"nút để tải lên logo của bạn."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:125
+msgid "Customize your navigation menus"
+msgstr "Chỉnh hướng của bạn thực đơn"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:126
+msgid ""
+"Organize your menus by adding Pages, Categories, Tags, and Custom Links."
+msgstr ""
+"Tổ chức của các menu bằng cách thêm vào Trang, Loại, Loại, và liên Kết tùy "
+"Chỉnh."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:131
+msgid "Choose your accent color"
+msgstr "Chọn màu giọng của bạn"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:132
+msgid ""
+"In the typography panel you can specify an accent color which will be "
+"applied to things like links and star ratings. We recommend using your brand "
+"color for this setting."
+msgstr ""
+"Trong bảng chữ bạn có thể xác định một giọng màu đó sẽ được áp dụng những "
+"thứ như liên kết và xếp hạng sao. Chúng tôi đề nghị sử dụng hiệu màu này "
+"thiết lập."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:137
+msgid "Color your buttons"
+msgid_plural "%d items"
+msgstr[0] "Màu của bạn nút"
+msgstr[1] ""
+
+#: inc/nux/class-storefront-nux-guided-tour.php:138
+msgid ""
+"Choose colors for your button backgrounds and text. Once again, brand colors "
+"are good choices here."
+msgstr ""
+"Chọn màu cho bạn nút và nền văn bản. Một lần nữa, hiệu màu sắc là sự lựa "
+"chọn tốt ở đây."
+
+#. translators: 1: open <strong> tag, 2: close <strong> tag, 3: 'End Of Line'
+#. symbol
+#: inc/nux/class-storefront-nux-guided-tour.php:145
+#, php-format
+msgid ""
+"All set! Remember to %1$ssave & publish%2$s your changes when you're done."
+"%3$sYou can return to your dashboard by clicking the X in the top left "
+"corner."
+msgstr "Tất cả tập hợp! Nhớ để %1$ssave "
+
+#: inc/nux/class-storefront-nux-guided-tour.php:147
+msgid "Done"
+msgstr "Thực hiện"
+
+#: inc/nux/class-storefront-nux-starter-content.php:71
+msgid "About"
+msgstr "Về"
+
+#: inc/nux/class-storefront-nux-starter-content.php:72
+msgid ""
+"You might be an artist who would like to introduce yourself and your work "
+"here or maybe you&rsquo;re a business with a mission to describe."
+msgstr ""
+"Bạn có thể là một nghệ sĩ, những người muốn giới thiệu mình và công việc của "
+"bạn ở đây, hoặc có thể bạn"
+
+#: inc/nux/class-storefront-nux-starter-content.php:76
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: inc/nux/class-storefront-nux-starter-content.php:77
+msgid ""
+"This is a page with some basic contact information, such as an address and "
+"phone number. You might also try a plugin to add a contact form."
+msgstr ""
+"Đây là một trang với cơ bản, một số thông tin liên lạc như một địa chỉ và số "
+"điện thoại. Bạn cũng có thể thử một cắm để thêm một hình thức liên lạc."
+
+#. Template Name of the plugin/theme
+#: inc/nux/class-storefront-nux-starter-content.php:208
+msgid "Homepage"
+msgstr "Chủ"
+
+#: inc/nux/class-storefront-nux-starter-content.php:213
+#: inc/nux/class-storefront-nux-starter-content.php:1101
+msgid "Welcome"
+msgstr "Chào mừng"
+
+#. translators: %s: 'End Of Line' symbol
+#: inc/nux/class-storefront-nux-starter-content.php:215
+#, php-format
+msgid ""
+"This is your homepage which is what most visitors will see when they first "
+"visit your shop.%sYou can change this text by editing the \"Welcome\" page "
+"via the \"Pages\" menu in your dashboard."
+msgstr ""
+"Đây là trang web đó là những gì hầu hết khách sẽ thấy khi họ chuyến thăm đầu "
+"tiên của cửa hàng.%sYou có thể thay đổi điều này văn bản chỉnh sửa \"chào "
+"Đón\" trang qua \"Trang\" đơn trong bảng điều khiển."
+
+#: inc/nux/class-storefront-nux-starter-content.php:723
+msgid "Accessories"
+msgstr "Phụ kiện"
+
+#: inc/nux/class-storefront-nux-starter-content.php:724
+#: inc/nux/class-storefront-nux-starter-content.php:727
+#: inc/nux/class-storefront-nux-starter-content.php:730
+msgid "A short category description"
+msgstr "Một mục mô tả"
+
+#: inc/nux/class-storefront-nux-starter-content.php:726
+msgid "Hoodies"
+msgstr "Hoodies"
+
+#: inc/nux/class-storefront-nux-starter-content.php:729
+msgid "Tshirts"
+msgstr "Áo phông"
+
+#: inc/nux/class-storefront-nux-starter-content.php:735
+msgid "Beanie"
+msgstr "Mũ len"
+
+#: inc/nux/class-storefront-nux-starter-content.php:757
+msgid "Belt"
+msgstr "Vành đai"
+
+#: inc/nux/class-storefront-nux-starter-content.php:779
+msgid "Cap"
+msgstr "Cap"

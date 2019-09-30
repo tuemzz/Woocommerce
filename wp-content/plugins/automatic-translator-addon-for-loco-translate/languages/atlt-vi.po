@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Automatic Translate Addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-30 04:11+0000\n"
+"PO-Revision-Date: 2019-09-30 04:12+0000\n"
+"Last-Translator: tuannt <sdfsd@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#. Description of the plugin
+msgid ""
+"Auto language translator add-on for Loco Translate plugin to translate "
+"plugins and themes translation files into any language via fully automatic "
+"machine translations via Yendex Translate API."
+msgstr ""
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/"
+msgstr ""
+
+#: includes/atlt-feedback-notice.php:71
+msgid "I already rated it"
+msgstr ""
+
+#: automatic-translator-addon-for-loco-translate.php:154
+#, php-format
+msgid ""
+"In order to use <strong>%s</strong> plugin, please install and activate the "
+"latest version of <a href=\"%s\" class=\"thickbox\" title=\"%s\">%s</a>"
+msgstr ""
+
+#. Name of the plugin
+msgid "Loco Automatic Translate Addon"
+msgstr ""
+
+#: includes/atlt-feedback-notice.php:72
+msgid "No, not good enough, i do not like to rate it!"
+msgstr ""
